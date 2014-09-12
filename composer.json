@@ -1,0 +1,22 @@
+{
+    "name": "beryllium/wtsnap",
+    "description": "An API and interface for rehosting image content.",
+    "require": {
+        "silex/silex": "*",
+        "doctrine/dbal": "*",
+        "neutron/silex-imagine-provider": "*",
+        "league/flysystem": "*",
+        "aws/aws-sdk-php-silex": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Boyd",
+            "email": "kevin.boyd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
