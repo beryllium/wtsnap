@@ -9,7 +9,8 @@
         "aws/aws-sdk-php-silex": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "*",
+        "symfony/browser-kit": "*"
     },
     "license": "MIT",
     "authors": [
